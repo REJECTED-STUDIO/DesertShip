@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Maps/Desert.umap",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Medium/MI_sjzkfega.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Medium/T_sjzkfega_2K_B.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Medium/T_sjzkfega_2K_N.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Medium/T_sjzkfega_2K_ORM.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/GenNoise_Desert.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Material/GenNoise_Desert.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Material/M_DustCloud.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Material/M_DustCloud_Inst.uasset"
+			]
+		}
+	]
+}
