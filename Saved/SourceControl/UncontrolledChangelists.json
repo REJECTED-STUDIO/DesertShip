@@ -20,12 +20,22 @@
 				"E:/Program Files (x86)/GitHub/DesertShip/Content/FX/NS_Foot_Dust.uasset",
 				"E:/Program Files (x86)/GitHub/DesertShip/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset",
 				"E:/Program Files (x86)/GitHub/DesertShip/Content/Material/M_HeatHaze.uasset",
-				"E:/Program Files (x86)/GitHub/DesertShip/Content/Material/M_HeatHazeRefract.uasset",
 				"E:/Program Files (x86)/GitHub/DesertShip/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset",
 				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Powdered_Coal_and_Soil_vbzoecbdy/Medium/MI_vbzoecbdy.uasset",
 				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Powdered_Coal_and_Soil_vbzoecbdy/Medium/T_vbzoecbdy_2K_B.uasset",
 				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Powdered_Coal_and_Soil_vbzoecbdy/Medium/T_vbzoecbdy_2K_N.uasset",
-				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Powdered_Coal_and_Soil_vbzoecbdy/Medium/T_vbzoecbdy_2K_ORM.uasset"
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Powdered_Coal_and_Soil_vbzoecbdy/Medium/T_vbzoecbdy_2K_ORM.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Blueprints/BP_DesertShip.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/ThirdPerson/Input/Actions/IA_RotateSail.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/ThirdPerson/Input/Actions/IA_ComeIN.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/ThirdPerson/Input/Actions/IA_Leave.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/ThirdPerson/Input/Actions/IA_Turn.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/ThirdPerson/Input/IM_Ship.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/ThirdPerson/Input/Actions/IA_TurnShip.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/ThirdPerson/Input/Actions/IA_UpShip.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Material/M_HeatHazeRefract.uasset"
 			]
 		}
 	]
