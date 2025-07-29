@@ -15,7 +15,17 @@
 				"E:/Program Files (x86)/GitHub/DesertShip/Content/Material/GenNoise_Desert.uasset",
 				"E:/Program Files (x86)/GitHub/DesertShip/Content/Material/M_DustCloud.uasset",
 				"E:/Program Files (x86)/GitHub/DesertShip/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"E:/Program Files (x86)/GitHub/DesertShip/Content/Material/M_DustCloud_Inst.uasset"
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Material/M_DustCloud_Inst.uasset",
+				"E:/Program Files (x86)/UE_5.4/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Srf.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/FX/NS_Foot_Dust.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Material/M_HeatHaze.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Material/M_HeatHazeRefract.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Powdered_Coal_and_Soil_vbzoecbdy/Medium/MI_vbzoecbdy.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Powdered_Coal_and_Soil_vbzoecbdy/Medium/T_vbzoecbdy_2K_B.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Powdered_Coal_and_Soil_vbzoecbdy/Medium/T_vbzoecbdy_2K_N.uasset",
+				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Powdered_Coal_and_Soil_vbzoecbdy/Medium/T_vbzoecbdy_2K_ORM.uasset"
 			]
 		}
 	]
