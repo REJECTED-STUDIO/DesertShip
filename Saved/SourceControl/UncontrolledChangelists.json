@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"R:/Godot/DesertShip/Content/Blueprints/BP_Base_Interactive.uasset",
+				"R:/Godot/DesertShip/Content/Systems/BPI_Items.uasset",
+				"R:/Godot/DesertShip/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"R:/Godot/DesertShip/Content/Maps/Desert.umap",
+				"R:/Godot/DesertShip/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/60/PN923RF17WGG6CAS9Q9T9W.uasset",
 				"E:/Program Files (x86)/GitHub/DesertShip/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/Program Files (x86)/GitHub/DesertShip/Content/Maps/Desert.umap",
 				"E:/Program Files (x86)/GitHub/DesertShip/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Medium/MI_sjzkfega.uasset",
